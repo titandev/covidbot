@@ -1,1 +1,2 @@
 # covidbot
+[![Discord Bots](https://top.gg/api/widget/status/691528986315980811.svg)](https://top.gg/bot/691528986315980811) [![Discord Bots](https://top.gg/api/widget/servers/691528986315980811.svg)](https://top.gg/bot/691528986315980811) [![Discord Bots](https://top.gg/api/widget/upvotes/691528986315980811.svg)](https://top.gg/bot/691528986315980811) [![Discord Bots](https://top.gg/api/widget/owner/691528986315980811.svg)](https://top.gg/bot/691528986315980811)
